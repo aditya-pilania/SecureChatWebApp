@@ -13,7 +13,7 @@ Secure Chat is a secure real-time messaging web application that demonstrates **
 - 🧠 **AES encryption** for message confidentiality
 - 📡 **WebSocket-based real-time messaging** (via Socket.IO)
 - 🧾 **Room-based communication**
-- 🌐 **Mobile-friendly interface**
+- 🌐 **Desktop-friendly interface**
 - 🚀 **Publicly accessible deployment on Render**
 
 ---
